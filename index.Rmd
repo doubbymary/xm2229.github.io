@@ -1,0 +1,19 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+
+---
+
+# This is Jeff's awesome website
+
+You can learn about me [here] (github.html)
+
+I often use google to do data science
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+##let add image
+
+
